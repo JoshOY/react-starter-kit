@@ -13,13 +13,13 @@
     "babel": "4.7.1",
     "bootstrap": "3.3.2",
     "eventemitter3": "0.1.6",
-    "express": "4.12.2",
+    "express": "4.15.5",
     "flux": "2.0.1",
     "front-matter": "1.0.0",
     "jade": "1.9.2",
     "lodash": "3.4.0",
     "react": "0.12.2",
-    "superagent": "0.21.0"
+    "superagent": "2.0.0"
   },
   "devDependencies": {
     "autoprefixer-loader": "^1.2.0",
